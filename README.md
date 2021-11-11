@@ -52,6 +52,7 @@ See how other teams and projects use Cucumber for their needs.
 Talks, sessions, webinars about Cucumber.
 
 - [An Introduction to Behavior-Driven Development (BDD) with Cucumber for Java](https://www.youtube.com/watch?v=MCaXumfckmQ)
+- [The New Way to do BDD Testing with JUnit 5 and Cucumber](https://www.youtube.com/watch?v=pHnHyBhK4SI)
 
 ## Alternatives
 
